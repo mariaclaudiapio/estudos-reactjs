@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Meias Brancas",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "Vestido",
+      "price": "110",
+      "id": 5
+    },
+    {
+      "name": "Casaco",
+      "price": "90",
+      "id": 6
+    },
+    {
+      "name": "Lenço",
+      "price": "10",
+      "id": 7
+    },
+    {
+      "name": "Saia",
+      "price": "55",
+      "id": 8
+    },
+    {
+      "name": "Vestido Vermelho",
+      "price": "110",
+      "id": 9
+    },
+    {
+      "name": "Vestido Vermelho",
+      "price": "110",
+      "id": 10
+    },
+    {
+      "name": "Vestido Azul",
+      "price": "110",
+      "id": 11
+    },
+    {
+      "name": "Vestido Verde",
+      "price": "110",
+      "id": 12
+    }
+  ]
+}
