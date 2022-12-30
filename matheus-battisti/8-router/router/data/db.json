@@ -1,5 +1,5 @@
 {
-  "products": [
+  "players": [
     {
       "id": 1,
       "name": "Neymar",
@@ -8,17 +8,17 @@
     {
       "id": 2,
       "name": "Lionel Messi",
-      "price": "Argentina"
+      "country": "Argentina"
     },
     {
       "id": 3,
       "name": "Luka Modric",
-      "price": "Croácia"
+      "country": "Croácia"
     },
     {
       "id": 4,
       "name": "Cristiano Ronaldo",
-      "price": "Portugal"
+      "country": "Portugal"
     }
   ]
 }
