@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Neymar",
+      "country": "Brasil"
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi",
+      "price": "Argentina"
+    },
+    {
+      "id": 3,
+      "name": "Luka Modric",
+      "price": "Croácia"
+    },
+    {
+      "id": 4,
+      "name": "Cristiano Ronaldo",
+      "price": "Portugal"
+    }
+  ]
+}
