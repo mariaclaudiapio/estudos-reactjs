@@ -29,6 +29,11 @@
       "name": "fone de ouvido",
       "price": "20",
       "id": 6
+    },
+    {
+      "name": "fone de ouvido bluetooth",
+      "price": "200",
+      "id": 7
     }
   ]
 }
