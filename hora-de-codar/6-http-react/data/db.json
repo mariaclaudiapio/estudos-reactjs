@@ -1,29 +1,19 @@
 {
-  "products": [
-    {
-      "name": "capa de chuva",
-      "price": "50.50",
-      "id": 5
-    },
-    {
-      "name": "teclado",
-      "price": "110",
-      "id": 6
-    },
-    {
-      "name": "cadeira",
-      "price": "200",
-      "id": 7
-    },
-    {
-      "name": "Teste",
-      "price": "1 real",
-      "id": 8
-    },
-    {
-      "name": "testando carregamento",
-      "price": "20",
-      "id": 9
-    }
-  ]
+    "products": [
+        {
+            "name": "capa de chuva",
+            "price": "50.50",
+            "id": 1
+        },
+        {
+            "name": "teclado",
+            "price": "110",
+            "id": 2
+        },
+        {
+            "name": "cadeira",
+            "price": "200",
+            "id": 3
+        }
+    ]
 }
