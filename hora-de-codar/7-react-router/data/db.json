@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "name": "capa de chuva",
+            "price": "50.50",
+            "id": 1
+        },
+        {
+            "name": "teclado",
+            "price": "110",
+            "id": 2
+        },
+        {
+            "name": "cadeira",
+            "price": "200",
+            "id": 3
+        },
+        {
+            "name": "mesa de escritório",
+            "price": "500",
+            "id": 4
+        },
+        {
+            "name": "cadeira gamer",
+            "price": "700",
+            "id": 5
+        }
+    ]
+}
